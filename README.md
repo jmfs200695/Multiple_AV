@@ -144,6 +144,6 @@ In the launch files you can specify the parameters values depending on the simul
 
 [My Blog](https://planeamentotrajetorias.wordpress.com/)
 
-[My GitHub](https://github.com/ManuelTFerreira)
+[GitHub](https://github.com/jmfs200695)
 
 
